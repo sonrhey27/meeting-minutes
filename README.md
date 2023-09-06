@@ -3,6 +3,9 @@
 ### Node JS
 - Download Node JS
 
+### Google App Script Autocomplete
+- npm install --save @types/google-apps-script
+
 ### Clasp CLI
 - npm install -g @google/clasp
 - clasp -v
